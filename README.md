@@ -9,4 +9,4 @@ Python as the language has been used and submission is with Jupyter notebooks to
 
 - ### Deep Learning
 
-      - [MNIST Digit Recognition Using CNNs](DataScience_Projects_Portfolio/Deep Learning Projects Using Tensorflow & KERAS/MNIST_Digit_Recognition_CNN_DL.ipynb): Building a CNN Model on MNIST Dataset
+	- [MNIST Digit Recognition Using CNNs](https://github.com/niveditphoenix/DataScience_Projects_Portfolio/blob/master/Deep%20Learning%20Projects%20Using%20Tensorflow%20%26%20KERAS/MNIST_Digit_Recognition_CNN_DL.ipynb): Building a CNN Model on MNIST Dataset
